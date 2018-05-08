@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "334727502139",
+    "firebase_url": "https://udacity-designvilla-34980.firebaseio.com",
+    "project_id": "udacity-designvilla-34980",
+    "storage_bucket": "udacity-designvilla-34980.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334727502139:android:b05ec24326df2a9f",
+        "android_client_info": {
+          "package_name": "udacity.designvilla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334727502139-udtapa0jbode9uqmvn1ockrve6a2l00l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "udacity.designvilla",
+            "certificate_hash": "2ebc0796426dee2f11f48a6aa0abf0fc96ddc0bc"
+          }
+        },
+        {
+          "client_id": "334727502139-01luceni64ee2009aeucjd8sqk3ak1ct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "udacity.designvilla",
+            "certificate_hash": "5c804e6ff57ae84d1c3903f67b2d3d8a22fc201f"
+          }
+        },
+        {
+          "client_id": "334727502139-mqg1ovln5t5kfs8ndgcioua0saql9b9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA24D_lgCaoDuwOQ5J-aBoyoL7VzBpDec"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334727502139-mqg1ovln5t5kfs8ndgcioua0saql9b9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
