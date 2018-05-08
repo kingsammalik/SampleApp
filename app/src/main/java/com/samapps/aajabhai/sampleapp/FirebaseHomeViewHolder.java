@@ -25,6 +25,8 @@ public class FirebaseHomeViewHolder extends RecyclerView.ViewHolder {
 
         Picasso.get()
                 .load(model.getImage_url())
+                .resize(80,450)
+                .centerInside()
                 .into(imageView);
 
         imagename.setText(model.getAuthor());
